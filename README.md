@@ -20,7 +20,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 
 ## What did we learn from this project?
-
+- Dataset cleaning for natural language processing (Stop word filtering, lemmatization, etc.)
+- Wordcloud visualisation
+- General concepts of SVC, KNC, MNB, and GBDT
+- Collaborating using Github and Google Colab
 ## References
 - https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset
 - https://www.kaggle.com/code/eldarsarajlic/spam-filter-practice-w-comments-for-beginners
