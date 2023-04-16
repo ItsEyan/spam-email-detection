@@ -5,3 +5,25 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
    1. [Data Cleaning](https://github.com/ItsEyan/spam-email-detection/blob/main/Data%20Preparation%20%26%20Cleaning.ipynb)
    2. [Exploratory Data Analysis & Visualisation](https://github.com/ItsEyan/spam-email-detection/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb)
    3. [Model Training & Testing](https://github.com/ItsEyan/spam-email-detection/blob/main/Model%20Training.ipynb)
+## Contributors
+- @ItsEyan - Data Preperation & Cleaning, EDA & Visualisation, Model Training
+- @Cyyy03 - Data Preperation & Cleaning, Model Training
+- @yiping1708 - Problem Formulation, Presentation & Editing
+## Problem Definition
+- Can we successfully identify Spam vs Ham emails solely based on the text in the email?
+- Which model is the best in identifying Spam emails?
+## Models Used
+- Support Vector Classification (SVC)
+- K-Neighbours Classification (KNC)
+- Multinomial Naive Bayes (MNB)
+- Gradient Boosting Decision Tree (GBDT)
+## Conclusion
+
+## What did we learn from this project?
+
+## References
+- https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset
+- https://www.kaggle.com/code/eldarsarajlic/spam-filter-practice-w-comments-for-beginners
+- https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/#:~:text=To%20convert%20the%20text%20data,text%20data%20to%20numerical%20vectors
+- https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html#:~:text=Naive%20Bayes%20models%20are%20a,baseline%20for%20a%20classification%20problem
+- https://www.kaggle.com/code/rohitshirudkar/email-classification-spam-or-ham
