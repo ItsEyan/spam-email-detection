@@ -23,6 +23,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Dataset cleaning for natural language processing (Stop word filtering, lemmatization, etc.)
 - Wordcloud visualisation
 - General concepts of SVC, KNC, MNB, and GBDT
+- Saving the generated models as .pckl files to save time from retraining
 - Collaborating using Github and Google Colab
 ## References
 - https://www.kaggle.com/datasets/nitishabharathi/email-spam-dataset
