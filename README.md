@@ -22,6 +22,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## What did we learn from this project?
 - Dataset cleaning for natural language processing (Stop word filtering, lemmatization, etc.)
 - Wordcloud visualisation
+- Natural language processing & analysis
 - General concepts of SVC, KNC, MNB, and GBDT
 - Saving the generated models as .pckl files to save time from retraining
 - Collaborating using Github and Google Colab
