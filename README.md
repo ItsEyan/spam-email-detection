@@ -6,8 +6,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
    2. [Exploratory Data Analysis & Visualisation](https://github.com/ItsEyan/spam-email-detection/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb)
    3. [Model Training & Testing](https://github.com/ItsEyan/spam-email-detection/blob/main/Model%20Training.ipynb)
 ## Contributors
-- @ItsEyan - Data Preperation & Cleaning, EDA & Visualisation, Model Training
-- @Cyyy03 - Data Preperation & Cleaning, Model Training, Presentation
+- @ItsEyan - Data Preparation & Cleaning, EDA & Visualisation, Model Training
+- @Cyyy03 - Data Preparation & Cleaning, Model Training, Presentation
 - @yiping1708 - Problem Formulation, Presentation & Editing
 ## Problem Definition
 - Can we successfully identify Spam vs Ham emails solely based on the text in the email?
