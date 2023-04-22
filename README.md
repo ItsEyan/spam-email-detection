@@ -18,7 +18,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Multinomial Naive Bayes (MNB)
 - Gradient Boosting Decision Tree (GBDT)
 ## Conclusion
-- Upon further testing, GBDT was found to be able to predict Spam emails from even a small dataset
+- Upon further testing, GBDT was found to be able to predict Spam emails even from a small dataset
 - Natural Language Processing is one of the best ways to categorise different text
 - A few thousand emails is not sufficient to predict every user's Spam emails. We need a larger dataset with a mix of different types of Spam emails in order to create a spam filter for general use
 - However, everyone's Spam mail is different. Therefore to get more accurate results, one should train the model based on their own emails
